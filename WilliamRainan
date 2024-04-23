@@ -1,0 +1,26 @@
+insert into 
+`alunos` 
+#Rainan
+values
+(default, 'Paul', '2009-05-04', 'M', 56.75, 1.52,'Canadá'),
+(default, 'Rainan', '2008-05-09', 'M', 66.59, 1.68,'Canadá'),
+(default, 'William', '2007-07-05', 'M', 60.00, 1.64,'Brasil'),
+(default, 'Marcos', '2012-09-03', 'M', 80.64, 1.50,'Zâmbia'),
+(default, 'Sergio', '2004-08-08', 'M', 76.00, 1.73,'Marrocos'),
+(default, 'Kayo', '2008-10-18', 'M', 58.00, 1.68,'Brasil'),
+(default, 'Anakin', '1999-01-14', 'M', 70.00, 1.80,'Estados Unidos'),
+(default, 'Eduarda', '1987-04-28', 'F', 70.50, 1.65, 'Portugal'),
+(default, 'Pedro', '1977-04-28', 'M', 72.27, 1.40, 'China'),
+(default, 'Maria', '2007-06-15', 'F', 55.11, 1.66, 'Brasil'),
+
+#William 
+(default, 'Ana', '1987-04-28', 'F', 70.50, 1.65, 'Portugal'),
+(default, 'Mario', '1986-12-23', 'M', 83.48, 1.45, 'Bulgária'),
+(default, 'Richard', '2011-02-17', 'M', 78.20, 1.55, 'Portugal'),
+(default, 'Vitor', '2007-09-18', 'M', 66.50, 1.72, 'Holanda'),
+(default, 'Nicolas', '2009-11-22', 'M', 43.50, 1.68, 'Nigéria'),
+(default, 'Ana Julia', '2007-07-03', 'F', 55.50, 1.62, 'Brasil'),
+(default, 'Rodrigo', '1925-10-26', 'M', 85.50, 1.60, 'Polônia'),
+(default, 'Camilo', '1970-6-03', 'M', 70.50, 1.66, 'Brasil'),
+(default, 'Elson', '1994-04-12', 'M', 66.50, 1.72, 'México'),
+(default, 'Carlos', '2007-07-09', 'M', 62.70, 1.77, 'Brasil');
